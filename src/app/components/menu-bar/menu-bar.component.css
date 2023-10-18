@@ -20,25 +20,3 @@
     margin: auto;
     align-items: center;
 }
-
-.item ul {
-    display: flex;
-    list-style-type: none;
-}
-
-.item ul li {
-    padding: 5px;
-    margin-right: 15px;
-}
-
-.item ul li a {
-    text-decoration: none;
-    color: black;
-    padding: 5px;
-    font-family: 'Segoe UI';
-}
-
-.item ul li a:hover {
-    color: blue;
-    font-weight: bold;
-}
